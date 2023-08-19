@@ -2,7 +2,7 @@ Background
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
-Data Modeling
+##Data Modeling
 
 
 ![image](https://github.com/JasmineK20/sql-challenge/assets/135649789/32b2c242-a592-416a-97cc-c60e34543991)
@@ -10,21 +10,12 @@ Data Modeling
 
 
 
+##Data Engineering
+
+Create SQL scripts to build tables, set primary and foreign keys, and constraints 
 
 
-
-
-
-
-Data Engineering
-
-Use the provided information to create a table schema for each of the six CSV files. 
-
-Import each CSV file into its corresponding SQL table.
-
-
-
-Data Analysis
+##Data Analysis - Answer the following questions:
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
