@@ -18,6 +18,9 @@ Data Modeling
 
 Data Engineering
 
+Use the provided information to create a table schema for each of the six CSV files. 
+
+Import each CSV file into its corresponding SQL table.
 
 
 
