@@ -2,7 +2,7 @@ Background
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
-Data Modeling
+                                            Data Modeling
 
 
 ![image](https://github.com/JasmineK20/sql-challenge/assets/135649789/32b2c242-a592-416a-97cc-c60e34543991)
