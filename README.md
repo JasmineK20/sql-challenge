@@ -7,6 +7,15 @@ Data Modeling
 
 ![image](https://github.com/JasmineK20/sql-challenge/assets/135649789/32b2c242-a592-416a-97cc-c60e34543991)
 
+
+
+
+
+
+
+
+
+
 Data Engineering
 
 
